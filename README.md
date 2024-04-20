@@ -12,7 +12,7 @@ In the project directory which is server, you can run:
 
 ### 'nodemon index.js'
 
-TEAM MEMBERS
+TEAM MEMBERS;
 
 TANISHA MADAAN (2210110613)
 SHREEYA ARORA (2210110569)
