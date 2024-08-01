@@ -1,4 +1,4 @@
-## COMMANDS TO RUN THE CODE
+## Commands To Run Code
 
 In the project directory which is src, you can run:
 
