@@ -30,6 +30,14 @@ GitHub: [github.com/tanishamadaan64/CampusHire](https://github.com/tanishamadaan
 - Database: MySQL  
 
 ---
+## Demo Video
+
+
+
+
+
+https://github.com/user-attachments/assets/fcecb6f2-a9d1-4572-b05b-afc60c5c258e
+---
 
 ## 🚀 Setup
 
@@ -48,14 +56,6 @@ cd ../server
 npm install
 node index.js
 
-
-## Demo Video
-
-
-
-
-
-https://github.com/user-attachments/assets/fcecb6f2-a9d1-4572-b05b-afc60c5c258e
 
 
 
