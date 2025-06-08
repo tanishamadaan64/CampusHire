@@ -1,4 +1,4 @@
-## Commands To Run Code
+## CampusHire - Placement Management System
 
 In the project directory which is src, you can run:
 
